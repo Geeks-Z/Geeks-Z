@@ -7,6 +7,6 @@
 </p>
 <div align="center">
 <span>  </span>
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=Geeks-Z&show_icons=true" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geeks-Z&layout=compact&langs_count=8" />
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=Geeks-Z&show_icons=true" /><span>  </span>
 <span>  </span>
 </div>
