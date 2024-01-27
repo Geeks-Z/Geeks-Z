@@ -15,6 +15,6 @@ This is my Website, it must be your need 👉 [Geeks_Z の Blog](https://www.hwz
 </p>
 <div align="center">
 <span>  </span>
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=Geeks-Z&show_icons=true" /><span>  </span>
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=Geeks-Z&show_icons=true" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geeks-Z&layout=compact&langs_count=8" />
 <span>  </span>
 </div>
