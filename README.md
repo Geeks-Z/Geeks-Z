@@ -4,7 +4,6 @@
 
 <p>Hi, 👋  I'm <a href="https://www.hwzhao.cn/" target="_blank">Hongwei Zhao </a>
 
-This is my Website, it must be your need 👉 [Geeks_Z の Blog](https://www.hwzhao.cn/) 👈
 </p>
 
 <p align="center">
