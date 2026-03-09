@@ -11,7 +11,4 @@
 <a title="zhihu" target="_blank" href="https://www.zhihu.com/people/icode1024"><img src="https://img.shields.io/badge/Zhihu-icode1024-0084ff?labelColor=0084ff&color=353940&logo=zhihu&logoColor=white&style=flat" ></a>
 </p>
 <div align="center">
-<span>  </span>
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=Geeks-Z&show_icons=true" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geeks-Z&layout=compact&langs_count=8" />
-<span>  </span>
-</div>
+
